@@ -1,0 +1,16 @@
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\CodingAssessment.csproj.AssemblyReference.cache
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\CodingAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\CodingAssessment.AssemblyInfoInputs.cache
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\CodingAssessment.AssemblyInfo.cs
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\CodingAssessment.csproj.CoreCompileInputs.cache
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Debug\net5.0\CodingAssessment.exe
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Debug\net5.0\CodingAssessment.deps.json
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Debug\net5.0\CodingAssessment.runtimeconfig.json
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Debug\net5.0\CodingAssessment.runtimeconfig.dev.json
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Debug\net5.0\CodingAssessment.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Debug\net5.0\ref\CodingAssessment.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Debug\net5.0\CodingAssessment.pdb
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\CodingAssessment.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\ref\CodingAssessment.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\CodingAssessment.pdb
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\obj\Debug\net5.0\CodingAssessment.genruntimeconfig.cache

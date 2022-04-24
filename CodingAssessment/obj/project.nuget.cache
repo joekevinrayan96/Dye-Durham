@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8bgvv6JGBCxCKeOTyCiaOQwsdnzo9hZ+B5pVysp8VHpXHM4vu3vfIYNFcIgQToeLfFMaWD4sBhjCs1hH6iHWxg==",
+  "success": true,
+  "projectFilePath": "D:\\ExtraLearning\\Work\\Dye&Durham\\CodingAssessment\\NameSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joeke\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
