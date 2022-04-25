@@ -16,7 +16,7 @@ namespace NameSorter.UnitTests
         public void SortNames_StringArrayNull_ReturnsNull()
         {
             //Arrange
-            var nameSorter = new NameSorterClass();
+            var nameSorter = new NameSorterClass();            
             string[] values = null;
 
             //Act

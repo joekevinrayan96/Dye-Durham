@@ -40,7 +40,8 @@ namespace NameSorter
                 }
             }
 
-
+            Console.Write("\n \nPress any key to close this app...");
+            Console.ReadLine();
 
 
         }

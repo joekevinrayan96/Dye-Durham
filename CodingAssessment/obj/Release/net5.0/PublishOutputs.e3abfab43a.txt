@@ -1,0 +1,11 @@
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\NameSorter.exe
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\NUnit3.TestAdapter.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\NUnit3.TestAdapter.pdb
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\nunit.engine.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\nunit.engine.api.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\nunit.engine.core.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\testcentric.engine.metadata.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\NameSorter.dll
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\NameSorter.deps.json
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\NameSorter.runtimeconfig.json
+D:\ExtraLearning\Work\Dye&Durham\CodingAssessment\bin\Release\net5.0\publish\NameSorter.pdb

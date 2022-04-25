@@ -1,0 +1,14 @@
+language:
+    csharp 
+sudo: required 
+mono: none 
+dotnet: 3.0 
+
+os: - linux 
+
+before_script: 
+- dotnet restore ".\CodingAssessment\CodingAssessment.sln" 
+
+script: 
+- dotnet build ".\CodingAssessment\CodingAssessment.sln" -c Release 
+- dotnet test ".\CodingAssessment\CodingAssessment.sln" -c Release -v n
