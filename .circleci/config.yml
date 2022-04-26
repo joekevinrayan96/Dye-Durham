@@ -8,11 +8,11 @@ jobs:
       - run:
           name: Restore
           command: dotnet restore
-          working_directory: CodingAssessment
+          working_directory: CodingAssessment.sln
       - run:
           name: Build
           command: dotnet build -c Release
-          working_directory: CodingAssessment
+          working_directory: CodingAssessment.sln
       - run:
           name: Running Tests
           command: dotnet test
